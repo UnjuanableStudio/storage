@@ -2,18 +2,18 @@
 
 npm
 ```shell
-npm install -S @lc7457/storage
+npm install -S @dtlc/storage
 ```
 
 yarn
 ```shell
-yarn add @lc7457/storage
+yarn add @dtlc/storage
 ```
 
 # 使用
 ```javascript
 
-import Storage from "@lc7457/storage"
+import Storage from "@dtlc/storage"
 
 const storage = new Storage({
   expire_suffix:'_expiry',
