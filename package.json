@@ -1,0 +1,9 @@
+{
+  "name": "@dtlc/storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dtlc/storage.git",
+  "author": "LeeNux",
+  "license": "MIT"
+}
+
