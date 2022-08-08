@@ -1,9 +1,9 @@
 {
-  "name": "@dtlc/storage",
+  "name": "@unjuanable/storage",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/dtlc/storage.git",
-  "author": "LeeNux",
+  "repository": "https://github.com/unjuanable/storage.git",
+  "author": "LeeNux @lc7457",
   "license": "MIT"
 }
 

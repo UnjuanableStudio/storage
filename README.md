@@ -2,18 +2,18 @@
 
 npm
 ```shell
-npm install -S @dtlc/storage
+npm install -S @unjuanable/storage
 ```
 
 yarn
 ```shell
-yarn add @dtlc/storage
+yarn add @unjuanable/storage
 ```
 
 # 使用
 ```javascript
 
-import Storage from "@dtlc/storage"
+import Storage from "@unjuanable/storage"
 
 const storage = new Storage({
   expire_suffix:'_expiry',
